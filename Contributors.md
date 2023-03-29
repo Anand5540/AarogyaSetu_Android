@@ -10,6 +10,7 @@ R S Mani
 Abhishek Singh  
 Dr. Seema Khanna  
 ABC
+XYZ
 
 ---------------------------------
 Industry and Academia Leadership
